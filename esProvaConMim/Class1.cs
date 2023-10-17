@@ -8,5 +8,13 @@ namespace esProvaConMim
 {
     internal class Class1
     {
+     public void CreaStringheDaStampare()
+        {
+
+        }
+    
+    
+    
+    
     }
 }
