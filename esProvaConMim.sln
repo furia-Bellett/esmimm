@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esProvaConMim", "esProvaConMim\esProvaConMim.csproj", "{9ACAB1EF-B042-4FCA-B202-2C2DC5892D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACAB1EF-B042-4FCA-B202-2C2DC5892D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACAB1EF-B042-4FCA-B202-2C2DC5892D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACAB1EF-B042-4FCA-B202-2C2DC5892D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACAB1EF-B042-4FCA-B202-2C2DC5892D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A66BCA3-0A06-45E5-B1A3-3D91D0FF9B8B}
+	EndGlobalSection
+EndGlobal
